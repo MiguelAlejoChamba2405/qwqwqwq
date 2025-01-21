@@ -2012,3 +2012,22 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [21Jan2025 16:39:31.687] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
 [21Jan2025 16:39:31.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4037ms or 80 ticks behind
 [21Jan2025 16:43:32.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [Stone Age]
+[21Jan2025 16:46:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [Getting an Upgrade]
+[21Jan2025 16:47:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [Monster Hunter]
+[21Jan2025 16:47:44.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [A Strange Grave Dust]
+[21Jan2025 16:48:14.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [Barrel Booty]
+[21Jan2025 16:48:19.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [Crops of the Wild]
+[21Jan2025 16:48:35.878] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/forgotten], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/skyris], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/pumpkin_patch]] from pos BlockPos{x=75, y=76, z=-213}
+[21Jan2025 16:48:39.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
+[21Jan2025 16:49:15.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [First Age]
+[21Jan2025 16:50:32.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [Chest Slayer]
+[21Jan2025 16:50:33.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [Amateur Archaeologist]
+[21Jan2025 16:50:46.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnderzonPE[/192.168.192.223:56917] logged in with entity id 3808 at (25.5, 64.0, 9.5)
+[21Jan2025 16:50:46.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnderzonPE joined the game
+[21Jan2025 16:50:46.461] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[21Jan2025 16:51:42.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported AnderzonPE to DonMiguelPE
+[21Jan2025 16:51:45.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnderzonPE has made the advancement [Barrel Booty]
+[21Jan2025 16:53:36.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [Acquire Hardware]
+[21Jan2025 16:54:08.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonMiguelPE has made the advancement [Isn't It Iron Pick]
+[21Jan2025 16:54:10.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnderzonPE lost connection: Disconnected
+[21Jan2025 16:54:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnderzonPE left the game
