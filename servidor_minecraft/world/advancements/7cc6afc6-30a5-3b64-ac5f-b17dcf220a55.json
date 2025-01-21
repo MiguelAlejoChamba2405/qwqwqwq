@@ -136,6 +136,7 @@
     "criteria": {
       "minecraft:sparse_jungle": "2025-01-21 17:12:05 +0000",
       "minecraft:river": "2025-01-21 17:26:17 +0000",
+      "minecraft:savanna": "2025-01-21 19:05:00 +0000",
       "minecraft:plains": "2025-01-21 17:30:46 +0000"
     },
     "done": false
@@ -1670,7 +1671,9 @@
   },
   "croptopia:gather_jungle": {
     "criteria": {
+      "basil_seed": "2025-01-21 18:00:38 +0000",
       "turnip_seed": "2025-01-21 17:25:35 +0000",
+      "rice_seed": "2025-01-21 18:00:39 +0000",
       "peanut_seed": "2025-01-21 17:25:37 +0000"
     },
     "done": false
@@ -1683,7 +1686,8 @@
   },
   "croptopia:gather_all": {
     "criteria": {
-      "turnip_seed": "2025-01-21 17:25:35 +0000"
+      "turnip_seed": "2025-01-21 17:25:35 +0000",
+      "basil_seed": "2025-01-21 18:00:38 +0000"
     },
     "done": false
   },
@@ -2633,6 +2637,42 @@
   "chococraft:recipes/misc/chocobo_saddle_bags": {
     "criteria": {
       "has_chocobo_feather": "2025-01-21 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sushi": {
+    "criteria": {
+      "has_rice": "2025-01-21 18:00:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/rice_seed": {
+    "criteria": {
+      "has_rice": "2025-01-21 18:00:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/steamed_rice": {
+    "criteria": {
+      "has_rice": "2025-01-21 18:00:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_rice": "2025-01-21 18:00:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/basil_seed": {
+    "criteria": {
+      "has_basil": "2025-01-21 18:00:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_eggplant_parmesan": {
+    "criteria": {
+      "has_basil": "2025-01-21 18:00:40 +0000"
     },
     "done": true
   },
